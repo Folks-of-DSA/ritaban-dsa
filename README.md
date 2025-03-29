@@ -1,3 +1,3 @@
 # ritaban-dsa  
 
-### Also check the wiki tab for more info
+### Also check the Wiki tab for more info
